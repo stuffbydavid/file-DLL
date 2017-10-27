@@ -1,0 +1,5 @@
+1. Extract boost source to C:\Libs\
+2. Open Developer console
+3. Navigate to source
+4. bootstrap.bat
+5. b2.exe --toolset=msvc variant=release link=static threading=multi runtime-link=static stage
