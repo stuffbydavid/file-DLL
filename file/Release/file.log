@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  main.cpp
+main.cpp(49): warning C4018: '<': signed/unsigned mismatch
+main.cpp(287): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdio.h(129): note: see declaration of '_wfopen'
+main.cpp(319): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdio.h(129): note: see declaration of '_wfopen'
+     Creating library ..\..\..\Source\datafiles\Data\file.lib and object ..\..\..\Source\datafiles\Data\file.exp
+  Generating code
+  All 742 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  file.vcxproj -> D:\OneDrive\Projects\Minecraft\Mine-imator\DLL\file\file\..\..\..\Source\datafiles\Data\file.dll
+  file.vcxproj -> ..\..\..\Source\datafiles\Data\file.pdb (Full PDB)
